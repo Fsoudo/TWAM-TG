@@ -170,8 +170,8 @@ Os testes foram realizados com 5 participantes, cobrindo 6 tarefas:
 
 | Nome | Número |
 |------|--------|
-| Fábio Soudoplatoff | 14060 |
-| (Colega de grupo) | 27131 |
+| Francisco Soudo| 14060 |
+| Miguel Pauzinho | 27131 |
 
 ---
 
